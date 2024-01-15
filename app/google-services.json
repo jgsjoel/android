@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138810881793",
+    "project_id": "java-mcom",
+    "storage_bucket": "java-mcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138810881793:android:41054f42a6a17f70820d00",
+        "android_client_info": {
+          "package_name": "com.mCom.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLxFkCL4NCy-lGCFOzfIOgl3C7kSUsrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
