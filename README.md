@@ -1,6 +1,6 @@
-# CC Bakery — Android App
+# Bakery APP — Android App
 
-An **Android application** developed as a **university project** to simulate an online bakery store.  
+An **Android application** developed as a **university projec** to simulate an online bakery store.  
 The app provides features like browsing products, managing a cart, placing orders, and handling account details.
 
 ---
@@ -102,17 +102,3 @@ ccbarkery2/
 
 
 
----
-
-## 📖 Documentation
-
-The repository also includes:  
-- `Project Documentation.pdf` – overall system design and explanation  
-- `prosuct Specification.pdf` – feature specifications  
-
----
-
-## 📜 License
-
-This project was created as part of a **university assignment**.  
-It is not intended for production use and **does not accept contributions**.  
