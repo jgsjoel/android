@@ -92,7 +92,15 @@ ccbarkery2/
 
 ## 📸 Screenshots
 
-*(Add screenshots from the `res/drawable/` assets like `sample.jpeg` or take emulator screenshots)*
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6e7e98e7-6e04-4a33-9407-371e3568b480" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/da3711e5-771d-465c-8e95-67cd82cf168d" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c9c8fcec-505a-4a67-b342-73f15116c5a8" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/34e2a99a-dee1-46b1-8fda-96bf69dc24ee" />
+
+
 
 ---
 
